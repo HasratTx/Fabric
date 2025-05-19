@@ -1,0 +1,31 @@
+customer_id,name,email,address,country,region
+1,Allison Hill,allison.hill@example.com,"14 King Street, Sydney, NSW 2000",Australia,Oceania
+2,Noah Rhodes,noah.rhodes@example.in,"102 MG Road, Bangalore, Karnataka 560001",India,Asia
+3,Angie Henderson,angie.henderson@example.jp,"3-5-2 Shinjuku, Tokyo 160-0022",Japan,Asia
+4,Daniel Wagner,daniel.wagner@example.de,"Berliner Str. 45, 10117 Berlin",Germany,Europe
+5,Cristian Santos,cristian.santos@example.br,"Rua das Flores, 123, São Paulo, SP 01000-000",Brazil,South America
+6,Connie Lawrence,connie.lawrence@example.ca,"78 King St W, Toronto, ON M5H 1A1",Canada,North America
+7,Abigail Shaffer,abigail.shaffer@example.co.uk,"27 Baker Street, London NW1 6XE",United Kingdom,Europe
+8,Gina Moore,gina.moore@example.za,"42 Mandela Road, Johannesburg 2001",South Africa,Africa
+9,Gabrielle Davis,gabrielle.davis@example.fr,"12 Rue de Rivoli, 75001 Paris",France,Europe
+10,Ryan Munoz,ryan.munoz@example.mx,"Av. Reforma 123, Mexico City, 06500",Mexico,North America
+11,Monica Herrera,monica.herrera@example.cn,"88 Nanjing Rd, Shanghai, 200001",China,Asia
+12,Jamie Arnold,jamie.arnold@example.nz,"59 Queen Street, Auckland 1010",New Zealand,Oceania
+13,Lisa Hensley,lisa.hensley@example.it,"Via Roma 20, 00185 Rome",Italy,Europe
+14,Michele Williams,michele.williams@example.ru,"ul. Arbat 10, Moscow 119019",Russia,Europe/Asia
+15,Dylan Miller,dylan.miller@example.sa,"15 King Fahd Road, Riyadh 11564",Saudi Arabia,Asia
+16,Brian Ramirez,brian.ramirez@example.ar,"Av. Corrientes 456, Buenos Aires 1043",Argentina,South America
+17,Holly Wood,holly.wood@example.ie,"2 O'Connell Street, Dublin D01 F5P2",Ireland,Europe
+18,Derek Zuniga,derek.zuniga@example.eg,"10 Tahrir Square, Cairo 11511",Egypt,Africa
+19,Lisa Jackson,lisa.jackson@example.se,"Sveavägen 50, Stockholm 111 34",Sweden,Europe
+20,Carla Gray,carla.gray@example.ph,"50 Makati Avenue, Makati City 1200",Philippines,Asia
+21,Margaret Hawkins,margaret.hawkins@example.nz,"80 Lambton Quay, Wellington 6011",New Zealand,Oceania
+22,Patty Perez,patty.perez@example.co.za,"5 Church Street, Cape Town 8001",South Africa,Africa
+23,Ethan Adams,ethan.adams@example.nl,"11 Dam Square, Amsterdam 1012 JS",Netherlands,Europe
+24,Tommy Walter,tommy.walter@example.cl,"Calle Alcázar 123, Santiago 8320000",Chile,South America
+25,Matthew Foster,matthew.foster@example.be,"Rue des Bouchers 22, Brussels 1000",Belgium,Europe
+26,Judy Baker,judy.baker@example.dk,"Nyhavn 17, Copenhagen 1051",Denmark,Europe
+27,Justin Baker,justin.baker@example.my,"Jalan Bukit Bintang, Kuala Lumpur 55100",Malaysia,Asia
+28,Stephanie Ross,stephanie.ross@example.us,"1234 Elm Street, Springfield, IL 62704",United States,North America
+29,Zachary Hicks,zachary.hicks@example.no,"Karl Johans gate 22, Oslo 0162",Norway,Europe
+30,Anthony Rodriguez,anthony.rodriguez@example.co,"Av. Libertador 4500, Buenos Aires 1425",Argentina,South America
